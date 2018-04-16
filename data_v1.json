@@ -4,6 +4,7 @@
     "desc": "A simple theme inspired by Wordpress theme Hacker",
     "github": "https://github.com/CodeDaraW/Hacker",
     "image": "https://hexo.io/build/screenshots/Hacker-7d332d0108.jpg",
+    "template_repo": "hexo-app/hexor-hacker",
     "template": "https://codeload.github.com/hexo-app/hexor-hacker/zip/master"
   }
 ]
