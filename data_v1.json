@@ -1,1 +1,9 @@
-[{"name":"Aath","desc":"A hexo theme inspired by zhihu and juejin","github":"https://github.com/lewis-geek/hexo-theme-Aath","image":"https://hexo.io/build/screenshots/Aath-56c4a2b126.jpg","template":"https://github.com/hexo-app/themes/raw/master/templates/test.zip"},{"name":"Aero-Dual","desc":"Minimal and responsive. Easy/automatic switch of dark and light theme style by simple configuation. Theme color change is also easy.","github":"https://github.com/levblanc/hexo-theme-aero-dual","image":"https://hexo.io/build/screenshots/Aero-Dual-fd85100e07.jpg","template":"https://github.com/hexo-app/themes/raw/master/templates/test.zip"},{"name":"AlphaDust","desc":"A futuristic responsive theme.","github":"https://github.com/klugjo/hexo-theme-alpha-dust","image":"https://hexo.io/build/screenshots/AlphaDust-bc63300ae9.jpg","template":"https://github.com/hexo-app/themes/raw/master/templates/test.zip"},{"name":"Hacker","desc":"A simple theme inspired by Wordpress theme Hacker","github":"https://github.com/CodeDaraW/Hacker","image":"https://hexo.io/build/screenshots/Hacker-7d332d0108.jpg","template":"https://github.com/hexo-app/themes/raw/master/templates/Hacker.zip"}]
+[
+  {
+    "name": "Hacker",
+    "desc": "A simple theme inspired by Wordpress theme Hacker",
+    "github": "https://github.com/CodeDaraW/Hacker",
+    "image": "https://hexo.io/build/screenshots/Hacker-7d332d0108.jpg",
+    "template": "https://codeload.github.com/hexo-app/hexor-hacker/zip/master"
+  }
+]
